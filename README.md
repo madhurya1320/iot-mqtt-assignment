@@ -58,6 +58,43 @@ The goal is to:
 
 ---
 
-## 📁 Project Structure
 
-<pre> iot-mqtt-assignment/ ├── station.py # Python script to simulate and publish sensor data ├── viewer.py # (Optional) View latest and historical data using API ├── README.md # Project documentation ├── requirements.txt # Required Python packages └── screenshots/ # Screenshots used in report </pre>
+### 📁 Project Structure
+
+<pre>
+iot-mqtt-assignment/
+├── station.py         # Python script to simulate and publish sensor data
+├── viewer.py          # View latest and historical data using ThingSpeak API
+├── README.md          # Project documentation
+├── requirements.txt   # Required Python packages
+└── screenshots/       # Screenshots used in report
+</pre>
+
+
+---
+
+## 📸 Screenshots
+
+### 📈 ThingSpeak Graphs
+![ThingSpeak Graphs](screenshots/thingspeak_graphs.jpg)
+
+### 🖥️ Terminal Output – station.py
+![Station Output](screenshots/terminal_station_output.jpg)
+
+### 🖥️ Terminal Output – viewer.py
+![Viewer Output](screenshots/terminal_viewer_output.jpg)
+
+### 🌐 GitHub Repository View
+![GitHub Repo](screenshots/github_repo.jpg)
+
+
+
+---
+
+## 📦 Python Requirements
+
+Install the required dependencies using pip:
+
+```bash
+pip install -r requirements.txt
+
