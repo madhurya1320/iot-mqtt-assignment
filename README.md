@@ -1,6 +1,6 @@
 # IoT MQTT Environmental Monitoring System – CIS600 Assignment 3
 
-This project is developed as part of **CIS600 – Internet of Things** coursework (Spring 2025) at [Your University Name]. It simulates a **virtual environmental monitoring station** using **Python** and **MQTT protocol** to publish data to the **ThingSpeak cloud platform**.
+This project is developed as part of **CIS600 – Internet of Things** coursework (Spring 2025) at Syracuse University. It simulates a **virtual environmental monitoring station** using **Python** and **MQTT protocol** to publish data to the **ThingSpeak cloud platform**.
 
 The goal is to:
 - Simulate three environmental sensors (Temperature, Humidity, CO2)
